@@ -1,25 +1,24 @@
 table{
-    color: white;
+    color: #fff;
     text-align: center;
     border-collapse: collapse;
-    font: normal 3en Arial, Helvetica, sans-serif;
+    font:normal 3em Arial, Helvetical, sans-serif;
 }
 
 tr{
     height: 16.02vh;
     background-color: #4e494d;
 }
-
 td{
     width: 25vw;
-    border: 1px solid #4e494d;
+    border: 1px solid;
 }
 
 #inputBox{
     background-color: #4e494d;
     text-align: right;
     width: 100%;
-    font-size: 2en;
+    font-size: 2em;
     color: #fff;
     border: 0px;
 }
@@ -29,7 +28,7 @@ td{
 }
 
 .operatorButton{
-    background-color: #ff5e06;
+    background-color: #ff9e06;
 }
 
 .ACButton{
